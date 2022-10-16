@@ -1,0 +1,16 @@
+body{
+    width: 400px;
+    height: 200px;
+   padding: 90px ;
+    background-color: white;
+   
+    border: 0.1px dashed aqua;
+    display: flex;
+   
+    justify-content: center;
+    row-gap: 86px;
+    border-color: blue;
+    transition: 0.9s ease all;
+    align-items: center;
+
+}
